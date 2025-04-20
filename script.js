@@ -100,8 +100,8 @@
         }
 
         const moreGirls = () => {
-            window.location.href = "https://postimg.cc/gallery/qpWtjQz";
+            parent.open("https://postimg.cc/gallery/qpWtjQz");
         }
         const moreBoys = () => {
-            window.location.href = "https://postimg.cc/gallery/Mq650ZQ";
+            parent.open("https://postimg.cc/gallery/Mq650ZQ");
         }
