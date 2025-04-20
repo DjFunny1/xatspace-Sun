@@ -98,10 +98,10 @@
         for (let i = 15; i < 30; i++) {
             extraContainer.appendChild(createGifCard(i, gifUrls[i]));
         }
-
+/*
         const moreGirls = () => {
             parent.open("https://postimg.cc/gallery/qpWtjQz");
         }
         const moreBoys = () => {
             parent.open("https://postimg.cc/gallery/Mq650ZQ");
-        }
+        } */
